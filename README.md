@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -57,3 +58,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# galabuddy
+GalaBuddy is a personal travel and gala planning system designed for people who love exploring new places and spending time outside. It helps users discover destinations, plan itineraries, manage their gala budget, organize trips with friends, and save memorable experiences and photos in one convenient platform.
+>>>>>>> 95344cdc9ab738142d21ff5e664d0723e56a94c8
